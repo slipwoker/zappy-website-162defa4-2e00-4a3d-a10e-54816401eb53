@@ -1,0 +1,88 @@
+# ztp ztp — Generative Engine Optimization Map
+
+> A comprehensive platform showcase website designed to transparently demonstrate all capabilities and limitations of the platform. The site aims to give visitors a clear, honest, and complete picture of what the platform can and cannot do — combining feature highlights with transparent disclosure of constraints, creating trust through clarity.
+
+---
+
+## Pages
+
+### בית
+https://ztp-ztp-162defa4.zappy5.app
+פלטפורמת טכנולוגיית SaaS המציגה את כל היכולות והמגבלות בגילוי לב. היכנסו להבין באמת מה המערכת יכולה לעשות עבורכם, ולקבל החלטה מושכלת בביטחון מלא.
+
+### יכולות
+https://ztp-ztp-162defa4.zappy5.app/capabilities
+סקירה מקיפה ומפורטת של יכולות פלטפורמת ה-SaaS שלנו. החל מאוטומציות חכמות ועד אינטגרציות מתקדמות — גלו את מלוא הפוטנציאל שמחכה לכם, ללא הפתעות.
+
+### מגבלות
+https://ztp-ztp-162defa4.zappy5.app/limitations
+גילוי נאות ואמיץ של כל מגבלות פלטפורמת ה-SaaS. אנו חושפים בפניכם את הגבולות, האילוצים והתרחישים הפחות מתאימים, כדי שתוכלו לתכנן נכון מההתחלה.
+
+### מדריך הערכה
+https://ztp-ztp-162defa4.zappy5.app/evaluation-guide
+מדריך הערכה פרקטי ונטול פניות לבחינת פלטפורמת SaaS. למדו כיצד להשוות בין יכולות מול מגבלות, ולזהות את הפתרון שבאמת מתאים לצרכים העסקיים שלכם.
+
+### צור קשר
+https://ztp-ztp-162defa4.zappy5.app/contact
+צרו קשר עם צוות ztp ztp לשיחה כנה על פלטפורמת ה-SaaS. נשמח לענות על שאלותיכם, להעמיק ביכולות ובמגבלות, ולבנות יחד את הפתרון המדויק עבורכם.
+
+### Products
+https://ztp-ztp-162defa4.zappy5.app/products
+המוצרים שלנו - ztp ztp
+
+### Product Detail
+https://ztp-ztp-162defa4.zappy5.app/product/:slug
+פרטי המוצר - ztp ztp
+
+### Category
+https://ztp-ztp-162defa4.zappy5.app/category/:slug
+מוצרים - ztp ztp
+
+### תודה - ztp ztp
+https://ztp-ztp-162defa4.zappy5.app/thank-you
+ztp ztp - תודה - ztp ztp
+
+## Legal & Policy
+
+### Privacy Policy
+https://ztp-ztp-162defa4.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ztp-ztp-162defa4.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ztp-ztp-162defa4.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ztp ztp
+A comprehensive platform showcase website designed to transparently demonstrate all capabilities and limitations of the platform. The site aims to give visitors a clear, honest, and complete picture of what the platform can and cannot do — combining feature highlights with transparent disclosure of constraints, creating trust through clarity.
+
+## Target Audience
+- חובבי טכנולוגיה וסאס
+- משקיעים בטכנולוגיה
+- מנהלי IT בארגונים
+
+## Industry
+Technology / SaaS Platform
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://ztp-ztp-162defa4.zappy5.app/sitemap.xml
+- Robots: https://ztp-ztp-162defa4.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://ztp-ztp-162defa4.zappy5.app/llms-full.txt
+- Products (JSON): https://ztp-ztp-162defa4.zappy5.app/products.json
+- Products (Google Merchant RSS): https://ztp-ztp-162defa4.zappy5.app/product-feed.xml
